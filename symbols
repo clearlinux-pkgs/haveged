@@ -1,6 +1,3 @@
-libhavege.so.1:cmd_connect
-libhavege.so.1:cmd_listen
-libhavege.so.1:getcmd
 libhavege.so.1:havege_create
 libhavege.so.1:havege_destroy
 libhavege.so.1:havege_ndcreate
@@ -14,6 +11,3 @@ libhavege.so.1:havege_status_dump
 libhavege.so.1:havege_test
 libhavege.so.1:havege_tune
 libhavege.so.1:havege_version
-libhavege.so.1:safein
-libhavege.so.1:safeout
-libhavege.so.1:socket_handler
